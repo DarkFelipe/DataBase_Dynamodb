@@ -1,11 +1,11 @@
 # DataBase_Dynamodb
 
-Base de dados criada para estudar sobre o Dynamodb. A minha base de dados foi criada inspirada na minha colecção de CDs.
+Base de dados criada para estudar sobre o Dynamodb. A minha base de dados foi criada inspirada na minha colecção de CDs. <br />
 Database created to study about the Dynamodb. My database was created inspired by my collection CDs.
 
 ## Informações úteis (Useful information)
 
-Foi utilizado o prompt de comando diretamente do windows e por causa disto, precisei criar arquivos JSON para conseguir manipular o banco de dados.
+Foi utilizado o prompt de comando diretamente do windows e por causa disto, precisei criar arquivos JSON para conseguir manipular o banco de dados. <br />
 I used the command prompt directly from windows and because of this, i needed to create JSON files to be able to manipulate the database.
 
 
