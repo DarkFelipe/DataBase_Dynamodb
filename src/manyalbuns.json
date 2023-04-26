@@ -1,0 +1,44 @@
+{
+    "CollectionCDs": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Acheron"},
+			"AlbumTitle": {"S":"Rites of the Black Mass"},
+			"RecordCompany":{"S":"VIC Records"},
+			"ReleaseYear":{"S":"1992"}
+                }
+            }
+        },
+	  {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Acheron"},
+			"AlbumTitle": {"S":"Lex Talionis"},
+			"RecordCompany":{"S":"Ablaze Productions"},
+			"ReleaseYear":{"S":"1994"}
+                }
+            }
+        },
+	  {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Acheron"},
+			"AlbumTitle": {"S":"Those Who Have Risen"},
+			"RecordCompany":{"S":"VIC Records"},
+			"ReleaseYear":{"S":"1998"}
+                }
+            }
+        },
+	  {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Autopsy"},
+			"AlbumTitle": {"S":"Severed Survival"},
+			"RecordCompany":{"S":"Peaceville Records"},
+			"ReleaseYear":{"S":"1989"}
+                }
+            }
+        }
+	]
+}
